@@ -22,5 +22,16 @@ I am System Biologist and Full Stack Web developer on the side
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.1.1](https://github.com/damourChris/nuxt-notion-cms/releases/tag/v0.1.1) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+2. 🎉 Merged PR [#4](https://github.com/damourChris/nuxt-notion-cms/pull/4) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+3. 💪 Opened PR [#4](https://github.com/damourChris/nuxt-notion-cms/pull/4) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+4. ❌ Closed PR [#3](https://github.com/damourChris/nuxt-notion-cms/pull/3) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+5. 💪 Opened PR [#3](https://github.com/damourChris/nuxt-notion-cms/pull/3) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+6. 🚀 Published release [v0.1.0](https://github.com/damourChris/nuxt-notion-cms/releases/tag/v0.1.0) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+7. 🎉 Merged PR [#2](https://github.com/damourChris/nuxt-notion-cms/pull/2) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+8. 💪 Opened PR [#2](https://github.com/damourChris/nuxt-notion-cms/pull/2) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+9. 🚀 Published release [v0.0.2](https://github.com/damourChris/nuxt-notion-cms/releases/tag/v0.0.2) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+10. 🎉 Merged PR [#1](https://github.com/damourChris/nuxt-notion-cms/pull/1) in [damourChris/nuxt-notion-cms](https://github.com/damourChris/nuxt-notion-cms)
+<!--END_SECTION:activity-->
 
 

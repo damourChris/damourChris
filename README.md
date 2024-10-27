@@ -23,14 +23,14 @@ I am System Biologist and Full Stack Web developer on the side
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/JuliaPluto/featured/pull/73#issuecomment-2407490566) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
-2. ❗ Opened issue [#16](https://github.com/damourChris/OntologyLookup.jl/issues/16) in [damourChris/OntologyLookup.jl](https://github.com/damourChris/OntologyLookup.jl)
-3. 🎉 Merged PR [#13](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl/pull/13) in [damourChris/GNNCellTypeReferenceGraph.jl](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl)
-4. 🎉 Merged PR [#15](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl/pull/15) in [damourChris/GNNCellTypeReferenceGraph.jl](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl)
-5. ❌ Closed PR [#3](https://github.com/damourChris/SysBioRegistry.jl/pull/3) in [damourChris/SysBioRegistry.jl](https://github.com/damourChris/SysBioRegistry.jl)
-6. ❗ Opened issue [#2](https://github.com/damourChris/SysBioRegistry.jl/issues/2) in [damourChris/SysBioRegistry.jl](https://github.com/damourChris/SysBioRegistry.jl)
-7. 🎉 Merged PR [#4](https://github.com/damourChris/ProteinMapping.jl/pull/4) in [damourChris/ProteinMapping.jl](https://github.com/damourChris/ProteinMapping.jl)
-8. 🎉 Merged PR [#13](https://github.com/damourChris/OntologyLookup.jl/pull/13) in [damourChris/OntologyLookup.jl](https://github.com/damourChris/OntologyLookup.jl)
+1. 💪 Opened PR [#74](https://github.com/JuliaPluto/featured/pull/74) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
+2. ❗ Opened issue [#3080](https://github.com/fonsp/Pluto.jl/issues/3080) in [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl)
+3. ❗ Opened issue [#11](https://github.com/damourChris/ExpressionData.jl/issues/11) in [damourChris/ExpressionData.jl](https://github.com/damourChris/ExpressionData.jl)
+4. 🗣 Commented on [#73](https://github.com/JuliaPluto/featured/pull/73#issuecomment-2407490566) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
+5. ❗ Opened issue [#16](https://github.com/damourChris/OntologyLookup.jl/issues/16) in [damourChris/OntologyLookup.jl](https://github.com/damourChris/OntologyLookup.jl)
+6. 🎉 Merged PR [#13](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl/pull/13) in [damourChris/GNNCellTypeReferenceGraph.jl](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl)
+7. 🎉 Merged PR [#15](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl/pull/15) in [damourChris/GNNCellTypeReferenceGraph.jl](https://github.com/damourChris/GNNCellTypeReferenceGraph.jl)
+8. ❌ Closed PR [#3](https://github.com/damourChris/SysBioRegistry.jl/pull/3) in [damourChris/SysBioRegistry.jl](https://github.com/damourChris/SysBioRegistry.jl)
 9. 🎉 Merged PR [#14](https://github.com/damourChris/OntologyLookup.jl/pull/14) in [damourChris/OntologyLookup.jl](https://github.com/damourChris/OntologyLookup.jl)
 10. ❗ Opened issue [#1](https://github.com/damourChris/SysBioRegistry.jl/issues/1) in [damourChris/SysBioRegistry.jl](https://github.com/damourChris/SysBioRegistry.jl)
 <!--END_SECTION:activity-->

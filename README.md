@@ -21,7 +21,7 @@ I am System Biologist and Full Stack Web developer on the side
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3080](https://github.com/fonsp/Pluto.jl/issues/3080#issuecomment-2442095103) in [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl)
+1. 🎉 Merged PR [#7](https://github.com/damourChris/MSB1013_ComputationalNeuroscience/pull/7) in [damourChris/MSB1013_ComputationalNeuroscience](https://github.com/damourChris/MSB1013_ComputationalNeuroscience)
 2. 🗣 Commented on [#3080](https://github.com/fonsp/Pluto.jl/issues/3080#issuecomment-2442088557) in [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl)
 3. 🗣 Commented on [#74](https://github.com/JuliaPluto/featured/pull/74#issuecomment-2442079905) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
 4. 💪 Opened PR [#74](https://github.com/JuliaPluto/featured/pull/74) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)

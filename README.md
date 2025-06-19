@@ -6,10 +6,8 @@ I am System Biologist and Full Stack Web developer on the side
 <br/>
   
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- GitHub Readme Github Stats - https://github.com/anuraghazra/github-readme-stats -->
-![damourChris's Github Streaks](https://streak-stats.demolab.com/?user=damourChris&theme=transparent)
 
+<!-- GitHub Readme Github Stats - https://github.com/anuraghazra/github-readme-stats -->
 ![damourChris's Github Stats ](https://github-readme-stats.vercel.app/api?username=damourChris&show_icons=true&theme=transparent)
 
 ![damourChris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damourChris&layout=pie&theme=transparent)

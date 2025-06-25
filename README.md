@@ -21,16 +21,16 @@ I am System Biologist and Full Stack Web developer on the side
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/damourChris/WasmtimeRuntime.jl/issues/5) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-2. 🎉 Merged PR [#6](https://github.com/damourChris/WasmtimeRuntime.jl/pull/6) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-3. 💪 Opened PR [#6](https://github.com/damourChris/WasmtimeRuntime.jl/pull/6) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-4. ❗ Opened issue [#5](https://github.com/damourChris/WasmtimeRuntime.jl/issues/5) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-5. 🎉 Merged PR [#4](https://github.com/damourChris/WasmtimeRuntime.jl/pull/4) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-6. 💪 Opened PR [#4](https://github.com/damourChris/WasmtimeRuntime.jl/pull/4) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-7. 🔒 Closed issue [#2](https://github.com/damourChris/WasmtimeRuntime.jl/issues/2) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-8. 🎉 Merged PR [#1](https://github.com/damourChris/WasmtimeRuntime.jl/pull/1) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-9. 🎉 Merged PR [#3](https://github.com/damourChris/WasmtimeRuntime.jl/pull/3) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
-10. ❗ Opened issue [#2](https://github.com/damourChris/WasmtimeRuntime.jl/issues/2) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+1. ❌ Closed PR [#8](https://github.com/damourChris/WasmtimeRuntime.jl/pull/8) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+2. 🔒 Closed issue [#7](https://github.com/damourChris/WasmtimeRuntime.jl/issues/7) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+3. 🎉 Merged PR [#9](https://github.com/damourChris/WasmtimeRuntime.jl/pull/9) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+4. 💪 Opened PR [#9](https://github.com/damourChris/WasmtimeRuntime.jl/pull/9) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+5. 💪 Opened PR [#8](https://github.com/damourChris/WasmtimeRuntime.jl/pull/8) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+6. ❗ Opened issue [#7](https://github.com/damourChris/WasmtimeRuntime.jl/issues/7) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+7. 🔒 Closed issue [#5](https://github.com/damourChris/WasmtimeRuntime.jl/issues/5) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+8. 🎉 Merged PR [#6](https://github.com/damourChris/WasmtimeRuntime.jl/pull/6) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+9. 💪 Opened PR [#6](https://github.com/damourChris/WasmtimeRuntime.jl/pull/6) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
+10. ❗ Opened issue [#5](https://github.com/damourChris/WasmtimeRuntime.jl/issues/5) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
 <!--END_SECTION:activity-->
 
 

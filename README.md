@@ -21,10 +21,10 @@ I am System Biologist and Full Stack Web developer on the side
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](undefined) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
-2. 🗣 Commented on [#321](https://github.com/JuliaPluto/PlutoUI.jl/pull/321#issuecomment-3246222093) in [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl)
-3. 💪 Opened PR [#321](undefined) in [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl)
-4. 💪 Opened PR [#1](undefined) in [damourChris/PlutoUI.jl](https://github.com/damourChris/PlutoUI.jl)
+1. 🎉 Merged PR [#87](https://github.com/JuliaPluto/featured/pull/87) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
+2. 💪 Opened PR [#87](https://github.com/JuliaPluto/featured/pull/87) in [JuliaPluto/featured](https://github.com/JuliaPluto/featured)
+3. 🗣 Commented on [#321](https://github.com/JuliaPluto/PlutoUI.jl/pull/321#issuecomment-3246222093) in [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl)
+4. 🎉 Merged PR [#68](https://github.com/damourChris/WasmtimeRuntime.jl/pull/68) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
 5. 🎉 Merged PR [#69](https://github.com/damourChris/WasmtimeRuntime.jl/pull/69) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
 6. 💪 Opened PR [#67](https://github.com/damourChris/WasmtimeRuntime.jl/pull/67) in [damourChris/WasmtimeRuntime.jl](https://github.com/damourChris/WasmtimeRuntime.jl)
 7. 🚀 Published release [v0.26.0](https://github.com/damourlabs/ui/releases/tag/v0.26.0) in [damourlabs/ui](https://github.com/damourlabs/ui)

@@ -21,7 +21,7 @@ I am System Biologist and Full Stack Web developer on the side
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/damourChris/ExpressionData.jl/pull/14) in [damourChris/ExpressionData.jl](https://github.com/damourChris/ExpressionData.jl)
+1. ❌ Merged PR [#321](undefined) in [JuliaPluto/PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl)
 2. ❌ Closed PR [#9](https://github.com/damourChris/ExpressionData.jl/pull/9) in [damourChris/ExpressionData.jl](https://github.com/damourChris/ExpressionData.jl)
 3. 🎉 Merged PR [#13](https://github.com/damourChris/ExpressionData.jl/pull/13) in [damourChris/ExpressionData.jl](https://github.com/damourChris/ExpressionData.jl)
 4. 💪 Opened PR [#13](https://github.com/damourChris/ExpressionData.jl/pull/13) in [damourChris/ExpressionData.jl](https://github.com/damourChris/ExpressionData.jl)
